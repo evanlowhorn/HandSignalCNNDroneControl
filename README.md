@@ -2,7 +2,7 @@
 
 This project contains all source code needed to recreate this application with a user-provided dataset to control a Ryze Tello drone.
 
-The imageTaker.m script uses MATLAB to automatically capture images with a webcam for the dataset. Examples from the dataset that are labeled by the CNN are shown below
+The imageTaker.m script uses MATLAB to automatically capture images with a webcam for the dataset. Examples from the dataset that were labeled by the CNN are shown below
 
 ![testImages_Figure](https://user-images.githubusercontent.com/83368831/116753744-90f47480-a9d5-11eb-9efc-db56728e22d7.png)
 
